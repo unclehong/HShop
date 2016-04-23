@@ -12,6 +12,44 @@ class UserController extends Controller
 		echo "this is the userController";
 	}
 	
+	public function userLogin()
+	{
+		
+	}
+	
+	public function userRegister()
+	{
+		
+	}
+	
+	public function userLogout()
+	{
+		echo "this is the logout";
+	}
+	
+	public function getUserInfoByUid()
+	{
+		
+	}
+	
+	public function getAllUserInfo()
+	{
+		
+	}
+	
+	
+	public function updateUserInfoByUid()
+	{
+		
+	}
+	
+	
+	public function deleteUserByUid()
+	{
+		
+	}
+	
+	
 	
 	
 }
